@@ -1,0 +1,200 @@
+@font-face {
+    src: url(../fonts/Dosis-VariableFont_wght.ttf);
+    font-family: Dosis;
+}
+
+@font-face {
+    src: url(../fonts/SourceSansPro-Bold.ttf);
+    font-family: SansBold;
+}
+
+@font-face {
+    src: url(../fonts/SourceSansPro-Regular.ttf);
+    font-family: SansRegular;
+}
+.bgColor {
+    background: #000324;
+}
+
+
+
+
+.navtb {
+    font-family: Dosis;
+    color: #FFFFFF;
+    text-align: end;
+    font-size: 20px;
+}
+
+.heroImg {
+    background-image: url(../Images/header.jpg);
+    background-position: inherit;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+
+.heroT{
+    padding: 200px;
+    color: #E5FEFF;
+    text-align: center;
+}
+
+
+.Textbg {
+    font-family: Dosis;
+    width: 945px;
+    padding: 75px;
+    background-color: #000324;
+    opacity: 80%;
+}
+
+.hTxt2 {
+    font-family: Dosis;
+    color: black;
+    text-align: center;
+
+}
+
+.hTxt0 {
+    font-family: Dosis;
+    color: #E5FEFF;
+    text-align: center;
+    font-size: 45px;
+}
+
+.heroImg2 {
+    background-image: url(../Images/bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.blueBtn {
+    background-color: #004CC7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    width: 150px;
+    height: 50px;
+}
+
+.imgResize {
+    width: 561px;
+    height: 234px;
+}
+
+
+
+.heroImg3 {
+    background-image: url(../Images/bg.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: auto;
+}
+
+.h3Text{
+    
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 35px;
+}
+
+.Txtbg2 {
+    width: auto;
+    padding: 25px;
+    background-color: #000324;
+    height: auto;
+}
+
+
+.fontSansRegC {
+    
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.sans1{
+    font-family: sans-Regular;
+    font-size: 20px;
+    
+}
+
+.fontSansBoldBig {
+   
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.oR{
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.rU{
+    color: #FFFFFF;
+}
+
+
+
+.container2 {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+}
+
+.bGColor {
+    background: #000324;
+}
+
+
+
+.heroT2 {
+    font-family: Dosis;
+    color: #FFFFFF;
+    font-size: 35px;
+    text-align: center;
+    padding: 50px;
+}
+
+.pT {
+    font-family: Dosis;
+    color: #1A1B26;
+    font-size: 25px;
+}
+
+.bPt {
+    font-family: SansRegular;
+    color: #1F51A8;
+}
+
+.rN {
+    font-family: Dosis;
+    color: #1A1B26;
+    font-size: 25px;
+}
